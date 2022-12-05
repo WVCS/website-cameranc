@@ -1,7 +1,7 @@
 body {
 
-  background-color: lightblue;
-
+ background-color: lightblue;
+}
 
 h3 {
   color: white;
@@ -10,6 +10,5 @@ h3 {
   text-shadow: 2px 2px 5px 
 }
 img {
-  width: 45px
-
+  width: 90px
 }
