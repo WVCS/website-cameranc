@@ -12,3 +12,26 @@ h3 {
 img {
   width: 90px
 }
+
+nav {
+  list-style-type: none;
+  width: 100%;
+  top: 0;
+  text-align: center;
+  font-size: 45px;
+  text-shadow: 2px 2px 5px 
+}
+
+li {
+  display: inline;
+  padding: 15px;
+}
+
+li:hover {
+  background-color: hotpink;
+}
+
+a {
+  text-decoration: none;
+  color: #DB86FF
+}
